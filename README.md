@@ -110,11 +110,8 @@
 
 ## ⚡ Fun Fact  
 
-💬 I treat datasets like puzzles — the more complex they are, the more exciting the solution 🚀  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=I%20Sri%20Ganesh&desc=I%20treat%20datasets%20like%20puzzles%20%E2%80%94%20the%20more%20complex%20they%20are,%20the%20more%20exciting%20the%20solution%20🚀&descAlign=50&descAlignY=70&fontSize=40&fontColor=ffffff"/>
 </p>
+----
 
