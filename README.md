@@ -58,7 +58,7 @@
 ## 📈 Contribution Snake 🐍  
 
 <p align="center">
-  <img src="https://github.com/ilurisriganesh/ilurisriganesh/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ilurisriganesh/I-SRI-GANESH/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
